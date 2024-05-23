@@ -1,0 +1,23 @@
+1,Akció,Call_of_Duty,24000,15
+2,Akció,Battlefield,22000,18
+3,Szerepjáték,The_Witcher_3: Wild Hunt,35000,20
+4,Stratégia,StarCraft_II,18000,12
+5,Szimuláció,The_Sims_4,28000,16
+6,Sport,FIFA_22,30000,15
+7,Kaland,Red_Dead_Redemption_2,32000,18
+8,Akció,Assassin's_Creed_Valhalla,38000,18
+9,Szerepjáték,Skyrim,30000,15
+10,Stratégia,Civilization_VI,25000,20
+11,Szimuláció,Microsoft_Flight_Simulator,45000,20
+12,Sport,NBA_2K22,32000,15
+13,Kaland,Uncharted_4:_A_Thief's_End,28000,16
+14,Akció,Hitman_3,30000,18
+15,Szerepjáték,Fallout_4,28000,16
+16,Stratégia,XCOM_2,20000,15
+17,Szimuláció,RollerCoaster Tycoon 3,12000,10
+18,Sport,Madden_NFL_22,28000,15
+19,Kaland,The_Legend_of Zelda: Breath of the Wild,38000,20
+20,Akció,Far_Cry_6,32000,18
+21,Szerepjáték,Persona_5,35000,20
+22,Stratégia,Total War:_Three_Kingdoms,28000,16
+23,Szimuláció,Planet_Zoo,25000,18

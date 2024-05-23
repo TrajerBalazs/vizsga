@@ -1,0 +1,14 @@
+C:\Programming\Vizsga\bin\Debug\net8.0\Vizsga.exe
+C:\Programming\Vizsga\bin\Debug\net8.0\Vizsga.deps.json
+C:\Programming\Vizsga\bin\Debug\net8.0\Vizsga.runtimeconfig.json
+C:\Programming\Vizsga\bin\Debug\net8.0\Vizsga.dll
+C:\Programming\Vizsga\bin\Debug\net8.0\Vizsga.pdb
+C:\Programming\Vizsga\obj\Debug\net8.0\Vizsga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Vizsga\obj\Debug\net8.0\Vizsga.AssemblyInfoInputs.cache
+C:\Programming\Vizsga\obj\Debug\net8.0\Vizsga.AssemblyInfo.cs
+C:\Programming\Vizsga\obj\Debug\net8.0\Vizsga.csproj.CoreCompileInputs.cache
+C:\Programming\Vizsga\obj\Debug\net8.0\Vizsga.dll
+C:\Programming\Vizsga\obj\Debug\net8.0\refint\Vizsga.dll
+C:\Programming\Vizsga\obj\Debug\net8.0\Vizsga.pdb
+C:\Programming\Vizsga\obj\Debug\net8.0\Vizsga.genruntimeconfig.cache
+C:\Programming\Vizsga\obj\Debug\net8.0\ref\Vizsga.dll
